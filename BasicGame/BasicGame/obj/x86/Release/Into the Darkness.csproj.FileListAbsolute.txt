@@ -1,0 +1,64 @@
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\button-3.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\freezer-hum-1.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\multi-plier-close-1.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Machine_Hum.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Monster_Step.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Pebble_Thud.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Switch_Click.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Thud.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Door_Unlock.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Key_Pickup.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Machine_Hum_2.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Monster_Step_2.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Monster_There_You_Are.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Monster_Youre_Mine.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Stone_Ground.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\Stone_Wall.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Sounds\ThrowSound.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Fonts\GameFont.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Fonts\gamefont2.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Fonts\menufont.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Fonts\InventoryFont.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Fonts\SpriteFont1.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Effects\VibrationShader.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Levels\Level 03 - Switches and Machines.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Levels\Level 04 - Monster.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Levels\Level 05 - Stones.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Levels\Level 01 - Jump.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Levels\Level 02 - Lock and Key.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Key.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Lock.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Machine.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Monster.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Stone.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Switch_Off.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Switch_On.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Levels\Level 07 - Find the Key.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Levels\Level 06 - Shifting Labyrinth.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\Models\Wall.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\background.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\blank.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\gradient.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\inventory.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\titlebackground.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\levelSwitchBackground.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\description.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\failurescreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\levelfivescreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\levelfourscreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\levelonescreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\levelsevenscreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\levelsixscreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\levelthreescreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\leveltwoscreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\story_description.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\wingamescreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\controls_screen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\MenuContent\quitscreen.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\GameMusic\Haunted By Voices.xnb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\Content\GameMusic\Haunted By Voices.wma
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\BasicGame.exe
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\bin\x86\Release\BasicGame.pdb
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\obj\x86\Release\BasicGame.exe
+C:\Users\Becky\Documents\GitHub\EECS494Final_Project\BasicGame\BasicGame\BasicGame\obj\x86\Release\BasicGame.pdb
